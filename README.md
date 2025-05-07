@@ -3,7 +3,7 @@
 This project showcases a hotel revenue intelligence dashboard built in **Power BI**, using partially simulated data for the year **2024**. It highlights key performance indicators (KPIs), guest segmentation, cost breakdowns, and seasonal trends.
 
 ![Dashboard Overview](./screenshots/Screenshot_Executive_Summary.png)
-![Hotel Data Overview](./screenshots/Screenshot_Deep_Dive_Analysis.png)
+![Hotel Data Overview](./screenshots/Screenshot_Deep_Dive_Analysis.png) 
 
 ---
 
