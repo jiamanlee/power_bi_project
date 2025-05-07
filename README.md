@@ -57,12 +57,12 @@ These dimensions were selected to simulate a real-world hotel executive dashboar
 ---
 
 ## 📁 Project Structure
-├── data/
-│ └── Hotel book.csv
-├── screenshots/
-│ └── Screenshot_Executive_Summary.png
-│ └── Screenshot_Deep_Dive_Analysis.png
-├── README.md
+- data/
+  - Hotel book.csv
+- screenshots/
+  - Screenshot_Executive_Summary.png
+  - Screenshot_Deep_Dive_Analysis.png
+- README.md
 
 
 ## 👩‍💻 Author
